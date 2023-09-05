@@ -1,2 +1,6 @@
 /Data Sets/
 /.history/
+/Baqir/python_script.py
+/Baqir/model.joblib
+/DataOut
+*.csv
