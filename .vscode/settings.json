@@ -6,7 +6,8 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
-        "Ginushmal/Clustering copy.ipynb": false
+        "Ginushmal/Clustering copy.ipynb": false,
+        "New_Aproch/01. Segmintvise_clustering.ipynb": false
     },
     "explorerExclude.backup": {}
 }
