@@ -33,6 +33,7 @@ Here's a summary of the key steps taken in this project:
 ### Implement the Dashboard
 
 6. Implement a dashboard to provide arrival time information and insights from the analyzed data.
+   
    Dashboard link: https://github.com/sheshan1/DSE_Dashboard
 
 ## Getting Started
