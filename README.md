@@ -2,11 +2,11 @@
 
 ## Overview
 
-The Bus Arrival Time Prediction Project aims to improve the accuracy of bus arrival time predictions by considering drivers' behavior patterns. This README file provides an overview of the project, its goals, and the steps taken to achieve those goals.
+The Bus Arrival Time Prediction Project aims to improve the accuracy of bus arrival time predictions by considering drivers' behavior patterns and preparing a dashboard. This README file provides an overview of the project, its goals, and the steps taken to achieve those goals.
 
 ## Project Goal
 
-The primary goal of this project is to enhance bus arrival time predictions by incorporating drivers' driving behavior data. By analyzing and modeling this data, we aim to create more accurate and reliable predictions for bus arrival times.
+The primary goal of this project is to enhance bus arrival time predictions by incorporating drivers' driving behavior data. By analyzing and modeling this data, we aim to create more accurate and reliable predictions for bus arrival times. Then prepare a dashboard to provide arrival time information and insights from the analyzed data.
 
 ## Project Workflow
 
@@ -30,6 +30,11 @@ Here's a summary of the key steps taken in this project:
 
 5. **Modeling**: Using the cluster labels and the averaged driver behavior features, an arrival time prediction model was built. This model leverages the relationships between driver behavior and arrival times to make predictions.
 
+### Implement the Dashboard
+
+6. Implement a dashboard to provide arrival time information and insights from the analyzed data.
+   Dashboard link: https://github.com/sheshan1/DSE_Dashboard
+
 ## Getting Started
 
 To use this project or replicate its results, follow these steps:
@@ -43,6 +48,10 @@ To use this project or replicate its results, follow these steps:
 4. **Clustering**: Apply time series clustering techniques, such as k-means with DTW, soft DTW, and without DTW, to cluster driver behavior patterns.
 
 5. **Model Development**: Build an arrival time prediction model using the cluster labels and averaged driver behavior features.
+
+## Video
+
+YouTube: https://youtu.be/pn6dXRJYx8g find the detailed explanation and the demo of the dashboard
 
 ## Contributors
 
