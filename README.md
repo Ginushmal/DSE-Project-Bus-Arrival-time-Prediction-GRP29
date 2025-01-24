@@ -66,10 +66,6 @@ YouTube: https://youtu.be/pn6dXRJYx8g find the detailed explanation and the demo
 - Ratneswaran, S., & Thayasivam, U. (2021). An Improved Bus Travel Time Prediction using Multi-Model Ensemble Approach for Heterogeneous Traffic Conditions. In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC). IEEE
   
 
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Conclusion
 
 The Bus Arrival Time Prediction Project represents a significant step toward improving bus arrival time predictions by considering driver behavior patterns. By leveraging clustering and modeling techniques, we aim to provide more accurate and reliable predictions for bus commuters and operators.
